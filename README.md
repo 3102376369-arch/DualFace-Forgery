@@ -17,6 +17,13 @@ First click this link to download our DFFD dataset. You will need a password�
 3)Please email Decheng Liu (dchliu@xidian.edu.cn) to obtain the password. We will respond as soon as possible. Please ensure that your email is sent from a valid official (University or Company) account and includes the following information:
 
 ```javascript
-const copyMe = true;
-console.log("Hello World");
+Subject: Application to download the DFFD
+Name: (your first and last name)
+Affiliation: (University or Company where you work)
+Department: (your department)
+Position: (your job title)
+Email: (must be the email at the above mentioned institution)
+
+I have read and agree to the terms and conditions specified in the DFFD license.
+The email content responsed by CelebA in step1. 
 
