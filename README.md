@@ -12,7 +12,8 @@ First click this link to download our DFFD dataset. You will need a password�
 
 1) Since DFFD is built upon CelebA, you should first obtain authorization from CelebA. After that, please include the email you received from CelebA in your email to us.
 
-2) Our dataset also has a license, which you can read here: license.
+2) Our dataset also has a license, which you can read here: [License](LICENSE)
+.
 
 3) Please email Decheng Liu (dchliu@xidian.edu.cn) to obtain the password. We will respond as soon as possible. Please ensure that your email is sent from a valid official (University or Company) account and includes the following information:
 
